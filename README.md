@@ -1,10 +1,3 @@
-Got it 👍 You want a **README.md** specifically polished for GitHub\*\*, so when people visit your repo, they understand the project clearly.
-
-Here’s a **ready-to-use GitHub README.md** you can put directly in your repo:
-
----
-
-```markdown
 # 🎯 Face Recognition Gate System
 
 A **Face Recognition Gate** project using **Python, OpenCV, and face_recognition**.  
@@ -107,16 +100,3 @@ python recognize.py
 **Bharat Vyas**
 📌 GitHub: [bharatvyas0712](https://github.com/bharatvyas0712)
 
----
-
-⭐ If you like this project, don’t forget to **star the repo**!
-
-```
-
----
-
-✅ Just save this as **`README.md`** in your project root → commit → push.  
-It will automatically show up on your GitHub repo homepage.  
-
-👉 Do you also want me to generate the **`requirements.txt` file** for your project so you can include it in GitHub?
-```
